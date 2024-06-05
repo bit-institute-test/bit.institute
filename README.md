@@ -20,6 +20,8 @@ El propósito de esta prueba es validar los conocimientos que los instructores t
     - com.bit.institute.proyect3: Clase Empleado para el manejo del salario.
     - com.bit.institute.proyect4: implementa un conjunto de numeros enteros
 
+    ![image](https://github.com/bit-institute-test/bit.institute/assets/11493727/35a00e69-0f64-4329-9f22-a206942c270d)
+
 ## Contribución
     Si quieres contribuir al proyecto, sigue estos pasos:
 
